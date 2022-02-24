@@ -1,0 +1,7 @@
+{
+  "name": "TimeTracking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
