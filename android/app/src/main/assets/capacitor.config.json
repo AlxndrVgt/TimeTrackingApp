@@ -1,0 +1,6 @@
+{
+	"appId": "de.avolutions.timetracking",
+	"appName": "TimeTracking",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
